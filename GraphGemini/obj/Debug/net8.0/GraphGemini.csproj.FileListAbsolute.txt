@@ -1,0 +1,14 @@
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/bin/Debug/net8.0/GraphGemini
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/bin/Debug/net8.0/GraphGemini.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/bin/Debug/net8.0/GraphGemini.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/bin/Debug/net8.0/GraphGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/bin/Debug/net8.0/GraphGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/refint/GraphGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/ref/GraphGemini.dll

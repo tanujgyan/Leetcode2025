@@ -1,0 +1,14 @@
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/bin/Debug/net8.0/DPGemini
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/bin/Debug/net8.0/DPGemini.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/bin/Debug/net8.0/DPGemini.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/bin/Debug/net8.0/DPGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/bin/Debug/net8.0/DPGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/refint/DPGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/ref/DPGemini.dll

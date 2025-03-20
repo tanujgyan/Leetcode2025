@@ -1,0 +1,14 @@
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/bin/Debug/net8.0/TreeGemini
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/bin/Debug/net8.0/TreeGemini.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/bin/Debug/net8.0/TreeGemini.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/bin/Debug/net8.0/TreeGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/bin/Debug/net8.0/TreeGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/refint/TreeGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/TreeGemini.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/TreeGemini/obj/Debug/net8.0/ref/TreeGemini.dll

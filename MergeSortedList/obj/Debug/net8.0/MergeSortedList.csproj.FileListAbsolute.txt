@@ -1,0 +1,14 @@
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/bin/Debug/net8.0/MergeSortedList
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/bin/Debug/net8.0/MergeSortedList.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/bin/Debug/net8.0/MergeSortedList.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/bin/Debug/net8.0/MergeSortedList.dll
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/bin/Debug/net8.0/MergeSortedList.pdb
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.dll
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/refint/MergeSortedList.dll
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.pdb
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/ref/MergeSortedList.dll
