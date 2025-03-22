@@ -5,12 +5,11 @@ class Program
     static void Main(string[] args)
     {
         char[][] board = new char[][] {
-            new char[] { 'X', 'O', 'O', 'X', 'X', 'X', 'O', 'X', 'O', 'O' },
-            new char[] { 'X', 'O', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X' },
-            new char[] { 'X', 'X', 'X', 'X', 'O', 'X', 'X', 'X', 'X', 'X' },
-            new char[] { 'X', 'O', 'X', 'X', 'X', 'O', 'X', 'X', 'X', 'O' }
+            new char[] { 'A', 'B', 'C', 'E' },
+            new char[] { 'S', 'F', 'E', 'S' },
+            new char[] { 'A', 'D', 'E', 'E' }
         };
-        _130 _130 = new _130();
-        _130.Solve(board);
+        _79 _79 = new _79();
+        _79.Exist(board, "ABCESEEEFS");
     }
 }

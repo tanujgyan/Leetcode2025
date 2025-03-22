@@ -12,3 +12,4 @@
 /home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.pdb
 /home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.genruntimeconfig.cache
 /home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/ref/GraphGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/GraphGemini/obj/Debug/net8.0/GraphGemini.sourcelink.json
