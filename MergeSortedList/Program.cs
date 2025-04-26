@@ -32,8 +32,7 @@ class Program
 
       //  MinDaysToMakeBouquets min = new MinDaysToMakeBouquets();
         // min.MinDays([1,10,3,10,2], 3, 2);
-        NiceSubArrays niceSubArrays = new NiceSubArrays();
-        niceSubArrays.NumberOfSubarrays([2,2,2,1,2,2,1,2,2,2], 2);
+       
     }
 
 
