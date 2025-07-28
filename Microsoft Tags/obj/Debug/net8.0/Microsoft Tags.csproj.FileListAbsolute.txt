@@ -1,0 +1,15 @@
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/bin/Debug/net8.0/Microsoft Tags
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/bin/Debug/net8.0/Microsoft Tags.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/bin/Debug/net8.0/Microsoft Tags.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/bin/Debug/net8.0/Microsoft Tags.dll
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/bin/Debug/net8.0/Microsoft Tags.pdb
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.sourcelink.json
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.dll
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/refint/Microsoft Tags.dll
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.pdb
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/Microsoft Tags.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/Microsoft Tags/obj/Debug/net8.0/ref/Microsoft Tags.dll

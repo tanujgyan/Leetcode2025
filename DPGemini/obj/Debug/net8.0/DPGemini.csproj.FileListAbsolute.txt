@@ -12,3 +12,4 @@
 /home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.pdb
 /home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.genruntimeconfig.cache
 /home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/ref/DPGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/DPGemini/obj/Debug/net8.0/DPGemini.sourcelink.json

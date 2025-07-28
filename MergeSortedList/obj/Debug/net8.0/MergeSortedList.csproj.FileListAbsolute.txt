@@ -12,3 +12,4 @@
 /home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.pdb
 /home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.genruntimeconfig.cache
 /home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/ref/MergeSortedList.dll
+/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/obj/Debug/net8.0/MergeSortedList.sourcelink.json

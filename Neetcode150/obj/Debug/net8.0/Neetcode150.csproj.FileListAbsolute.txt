@@ -1,0 +1,15 @@
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/bin/Debug/net8.0/Neetcode150
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/bin/Debug/net8.0/Neetcode150.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/bin/Debug/net8.0/Neetcode150.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/bin/Debug/net8.0/Neetcode150.dll
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/bin/Debug/net8.0/Neetcode150.pdb
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.sourcelink.json
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.dll
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/refint/Neetcode150.dll
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.pdb
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/Neetcode150.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/Neetcode150/obj/Debug/net8.0/ref/Neetcode150.dll

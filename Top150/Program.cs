@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        _3477 _3477 = new _3477();
-        _3477.NumOfUnplacedFruits([44,10], [26,5]);
+        _560 _560 = new _560();
+        _560.SubarraySum([1,1,1]
+            , 2);
     }
 }

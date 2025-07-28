@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "quo9jcpNY7Q=",
+  "dgSpecHash": "SzNRmqgg2UE=",
   "success": true,
   "projectFilePath": "/home/tanujgyan/RiderProjects/LeetCode/BinarySearch/BinarySearch.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/tanujgyan/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/tanujgyan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/tanujgyan/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

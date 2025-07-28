@@ -1,0 +1,15 @@
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/bin/Debug/net8.0/SlidingWindowGemini
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/bin/Debug/net8.0/SlidingWindowGemini.deps.json
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/bin/Debug/net8.0/SlidingWindowGemini.runtimeconfig.json
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/bin/Debug/net8.0/SlidingWindowGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/bin/Debug/net8.0/SlidingWindowGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.AssemblyInfoInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.AssemblyInfo.cs
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.csproj.CoreCompileInputs.cache
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.sourcelink.json
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/refint/SlidingWindowGemini.dll
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.pdb
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/SlidingWindowGemini.genruntimeconfig.cache
+/home/tanujgyan/RiderProjects/LeetCode/SlidingWindowGemini/obj/Debug/net8.0/ref/SlidingWindowGemini.dll
