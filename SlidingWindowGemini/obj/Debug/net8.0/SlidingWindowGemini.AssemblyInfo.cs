@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlidingWindowGemini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d37f296df20c0a8a95440aeb962722a8a5d51d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad82adcaa789db1e5ccf682f113eb20fc5bad367")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlidingWindowGemini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlidingWindowGemini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
