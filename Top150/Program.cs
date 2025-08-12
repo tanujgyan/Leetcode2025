@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        _560 _560 = new _560();
-        _560.SubarraySum([1,1,1]
-            , 2);
+        _325 _325 = new _325();
+        _325.MaximuSizeSubArray([1, -1, 5, -2, 3], 3);
     }
 }

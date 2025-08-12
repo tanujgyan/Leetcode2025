@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lx/3h7xAgVc=",
+  "dgSpecHash": "RHym8U0RovE=",
   "success": true,
   "projectFilePath": "/home/tanujgyan/RiderProjects/LeetCode/MergeSortedList/MergeSortedList.csproj",
-  "expectedPackageFiles": [
-    "/home/tanujgyan/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "/home/tanujgyan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "/home/tanujgyan/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
